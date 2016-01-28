@@ -1,1 +1,8 @@
 dev branch added file
+
+git add -A
+git commit -m""
+
+git checkout master
+git merge dev
+git push origin master
